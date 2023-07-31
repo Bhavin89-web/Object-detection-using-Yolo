@@ -38,7 +38,7 @@ I am using the ***numpy*** version ***1.17.4*** and ***opencv*** version ***3.4.
 You can now run the file by giving this command on your command promt
 
 ```
-python yolo.py --image images/ipl.jpeg
+python yolo.py --image images/soccer.jpg
 ```
 
 You can use any image you want after the `--image` argument. Make sure you give the right path.
