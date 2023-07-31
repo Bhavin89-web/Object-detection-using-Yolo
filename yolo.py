@@ -22,7 +22,7 @@ https://pjreddie.com/media/files/yolov3.weights
 '''
 You can run the file by using 
 
-python yolo.py --image images/ipl.jpeg
+python yolo.py --image images/soccer.jpg
 '''
 
 
